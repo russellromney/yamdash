@@ -1,5 +1,7 @@
 # yam-dash
 
+Early version is publicly accessible at https://heroku-dash.herokuapp.com/.
+
 Deployed at http://yamdash.com. Privacy policy at http://yamdash.com/static.
 
 You must added by me to the access list, but you can check it out if you are interested.
